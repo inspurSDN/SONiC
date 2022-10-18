@@ -66,14 +66,14 @@
 "sonic-generic.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzE2MjE3OS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5nZW5lcmlj0/content?format=file&subpath=/target/sonic-generic.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=162179&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/51eac0b335bf3ba1941a49241a2aa81d05abb07b...05b1e06012ff42f0b0854612b1910676ba10ade3",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/51eac0b335bf3ba1941a49241a2aa81d05abb07b...",
   "build": "162179",
   "date": "2022-10-18T08:00:26.8081816Z"
  },
 "sonic-generic-dbg.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzE2MjE3OS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5nZW5lcmlj0/content?format=file&subpath=/target/sonic-generic-dbg.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=162179&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/51eac0b335bf3ba1941a49241a2aa81d05abb07b...05b1e06012ff42f0b0854612b1910676ba10ade3",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/51eac0b335bf3ba1941a49241a2aa81d05abb07b...",
   "build": "162179",
   "date": "2022-10-18T08:00:26.8081816Z"
  },
