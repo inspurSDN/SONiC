@@ -368,7 +368,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=185695&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/e15acb59ff3e6d73bcc95b0734b98a580aca61ce...e15acb59ff3e6d73bcc95b0734b98a580aca61ce",
   "build": "185695",
-  "date": "2022-12-07T08:00:28.1299764Z"
+  "date": ""
  }
 },
 "201911": {
