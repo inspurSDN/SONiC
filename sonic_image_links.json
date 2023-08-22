@@ -50,7 +50,7 @@
   "date": "2023-08-21T08:00:41.8643405Z"
  },
 "sonic-centec.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzM0MzQwNC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
+  "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=343404&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/c3831d556c3343f66b9d9e0d3be7722fda4a57b5...c8dfe5cd07b75be9121671bb5fc8cdccf53caa51",
   "build": "343404",
